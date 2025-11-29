@@ -1,0 +1,10 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: frameflow-converter
+
+logging:
+  level:
+    com.frameflow: DEBUG
